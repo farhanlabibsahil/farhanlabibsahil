@@ -1,5 +1,3 @@
-# 💫 About Me:
-🔭 I’m currently working on making my self better<br>🌱 I’m currently learning new ideas and techs<br>
 
 
 # 💻 Tech Stack:
